@@ -69,7 +69,6 @@ vqe.plot_convergence()
 ## Visualization
 
 The library provides:
-- Quantum circuit visualization
 - Energy convergence plot
 - Optional exact ground state energy comparison
 
